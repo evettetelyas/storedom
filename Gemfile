@@ -14,7 +14,7 @@ gem 'therubyracer'
 gem 'less-rails-bootstrap'
 
 group :development do
-  gem 'spring'
+  gem 'spring', '1.6.0'
 end
 
 group :development, :test do
